@@ -1,0 +1,28 @@
+Day 1
+   
+Que 1- What is python and ehat are the ways to install python ?
+
+ Python is a programing lang which was developed by Guido Ran Rossum  in 1991,marketed by google.
+ Python lang construct and object oriented approach aim to help programmers write clear ,logical
+ code for small and large scale projects.
+
+      Ways to install python-
+1)Download the installation from python.org
+2)downloading ide based python which has inbuilt libraries.In anaconda there is panda,numpy,jupyter etc.
+
+Que 2- What are the code environment ? and its types?
+ 
+A code environment is a standalone and self contained environment to run python or R code.
+each code environment has its own sets of packages.
+
+      Types-
+
+1) Text editors -  A text editor is a program that saves your files without formating .It is 
+lightweight tool that allows you to write and edit the code with some features such as syntax
+highlighting and code  formating.
+
+2) IDE -IDE are full fleged environment which provide all the essential tools needed for software
+developement.
+
+3)Notebook environment- It is used for literate programming .Millons of people use notebook interfaces 
+to analyze data for science and education.
